@@ -1,0 +1,331 @@
+[
+  {
+    "countryCode": "US",
+    "countryName": "United States",
+    "flagEmoji": "🇺🇸",
+    "sources": [
+      {
+        "name": "NPR",
+        "rssUrl": "https://feeds.npr.org/1001/rss.xml",
+        "language": "en"
+      },
+      {
+        "name": "CBS News",
+        "rssUrl": "https://www.cbsnews.com/latest/rss/main",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "GB",
+    "countryName": "United Kingdom",
+    "flagEmoji": "🇬🇧",
+    "sources": [
+      {
+        "name": "BBC UK",
+        "rssUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "language": "en"
+      },
+      {
+        "name": "The Guardian UK",
+        "rssUrl": "https://www.theguardian.com/uk-news/rss",
+        "language": "en"
+      },
+      {
+        "name": "Sky News",
+        "rssUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "flagEmoji": "🇨🇦",
+    "sources": [
+      {
+        "name": "CBC News",
+        "rssUrl": "https://www.cbc.ca/cmlink/rss-topstories",
+        "language": "en"
+      },
+      {
+        "name": "Global News",
+        "rssUrl": "https://globalnews.ca/feed/",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "AU",
+    "countryName": "Australia",
+    "flagEmoji": "🇦🇺",
+    "sources": [
+      {
+        "name": "ABC News Australia",
+        "rssUrl": "https://www.abc.net.au/news/feed/51120/rss.xml",
+        "language": "en"
+      },
+      {
+        "name": "news.com.au",
+        "rssUrl": "https://www.news.com.au/content-feeds/latest-news-national/",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "IN",
+    "countryName": "India",
+    "flagEmoji": "🇮🇳",
+    "sources": [
+      {
+        "name": "Times of India",
+        "rssUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+        "language": "en"
+      },
+      {
+        "name": "The Hindu",
+        "rssUrl": "https://www.thehindu.com/news/national/feeder/default.rss",
+        "language": "en"
+      },
+      {
+        "name": "NDTV",
+        "rssUrl": "https://feeds.feedburner.com/ndtvnews-top-stories",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "IE",
+    "countryName": "Ireland",
+    "flagEmoji": "🇮🇪",
+    "sources": [
+      {
+        "name": "RTE News",
+        "rssUrl": "https://www.rte.ie/feeds/rss/?index=/news/ireland",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "IL",
+    "countryName": "Israel",
+    "flagEmoji": "🇮🇱",
+    "sources": [
+      {
+        "name": "Times of Israel",
+        "rssUrl": "https://www.timesofisrael.com/feed/",
+        "language": "en"
+      },
+      {
+        "name": "Jerusalem Post",
+        "rssUrl": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
+        "language": "en"
+      },
+      {
+        "name": "Ynet",
+        "rssUrl": "https://www.ynet.co.il/Integration/StoryRss2.xml",
+        "language": "he"
+      },
+      {
+        "name": "N12",
+        "rssUrl": "https://rcs.mako.co.il/rss/news-israel.xml",
+        "language": "he"
+      }
+    ]
+  },
+  {
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "flagEmoji": "🇩🇪",
+    "sources": [
+      {
+        "name": "Deutsche Welle",
+        "rssUrl": "https://rss.dw.com/rdf/rss-en-all",
+        "language": "en"
+      },
+      {
+        "name": "Spiegel International",
+        "rssUrl": "https://www.spiegel.de/international/index.rss",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "FR",
+    "countryName": "France",
+    "flagEmoji": "🇫🇷",
+    "sources": [
+      {
+        "name": "France 24",
+        "rssUrl": "https://www.france24.com/en/rss",
+        "language": "en"
+      },
+      {
+        "name": "Le Monde",
+        "rssUrl": "https://www.lemonde.fr/en/rss/une.xml",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "ES",
+    "countryName": "Spain",
+    "flagEmoji": "🇪🇸",
+    "sources": [
+      {
+        "name": "El País (English)",
+        "rssUrl": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "IT",
+    "countryName": "Italy",
+    "flagEmoji": "🇮🇹",
+    "sources": [
+      {
+        "name": "ANSA English",
+        "rssUrl": "https://www.ansa.it/english/english_rss.xml",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "NL",
+    "countryName": "Netherlands",
+    "flagEmoji": "🇳🇱",
+    "sources": [
+      {
+        "name": "DutchNews.nl",
+        "rssUrl": "https://www.dutchnews.nl/feed/",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "flagEmoji": "🇯🇵",
+    "sources": [
+      {
+        "name": "The Japan Times",
+        "rssUrl": "https://www.japantimes.co.jp/feed/",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "flagEmoji": "🇰🇷",
+    "sources": [
+      {
+        "name": "The Korea Herald",
+        "rssUrl": "https://www.koreaherald.com/rss/020000000000.xml",
+        "language": "en"
+      },
+      {
+        "name": "Yonhap News",
+        "rssUrl": "https://en.yna.co.kr/RSS/news.xml",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "HK",
+    "countryName": "Hong Kong",
+    "flagEmoji": "🇭🇰",
+    "sources": [
+      {
+        "name": "South China Morning Post",
+        "rssUrl": "https://www.scmp.com/rss/91/feed",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "SG",
+    "countryName": "Singapore",
+    "flagEmoji": "🇸🇬",
+    "sources": [
+      {
+        "name": "The Straits Times",
+        "rssUrl": "https://www.straitstimes.com/news/singapore/rss.xml",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "flagEmoji": "🇵🇭",
+    "sources": [
+      {
+        "name": "Rappler",
+        "rssUrl": "https://www.rappler.com/feed/",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "flagEmoji": "🇲🇽",
+    "sources": [
+      {
+        "name": "Mexico News Daily",
+        "rssUrl": "https://mexiconewsdaily.com/feed/",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "flagEmoji": "🇳🇬",
+    "sources": [
+      {
+        "name": "Premium Times",
+        "rssUrl": "https://www.premiumtimesng.com/feed",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "flagEmoji": "🇪🇬",
+    "sources": [
+      {
+        "name": "Egypt Independent",
+        "rssUrl": "https://egyptindependent.com/feed/",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "flagEmoji": "🇹🇷",
+    "sources": [
+      {
+        "name": "Hurriyet Daily News",
+        "rssUrl": "https://www.hurriyetdailynews.com/rss",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "flagEmoji": "🇷🇺",
+    "sources": [
+      {
+        "name": "The Moscow Times",
+        "rssUrl": "https://www.themoscowtimes.com/rss/news",
+        "language": "en"
+      }
+    ]
+  }
+]
