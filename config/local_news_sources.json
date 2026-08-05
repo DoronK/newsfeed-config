@@ -7,12 +7,14 @@
       {
         "name": "NPR",
         "rssUrl": "https://feeds.npr.org/1001/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "CBS News",
         "rssUrl": "https://www.cbsnews.com/latest/rss/main",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -24,17 +26,20 @@
       {
         "name": "BBC UK",
         "rssUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "The Guardian UK",
         "rssUrl": "https://www.theguardian.com/uk-news/rss",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "Sky News",
         "rssUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -46,12 +51,14 @@
       {
         "name": "CBC News",
         "rssUrl": "https://www.cbc.ca/cmlink/rss-topstories",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "Global News",
         "rssUrl": "https://globalnews.ca/feed/",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -63,12 +70,14 @@
       {
         "name": "ABC News Australia",
         "rssUrl": "https://www.abc.net.au/news/feed/51120/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "news.com.au",
         "rssUrl": "https://www.news.com.au/content-feeds/latest-news-national/",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -80,17 +89,20 @@
       {
         "name": "Times of India",
         "rssUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "The Hindu",
         "rssUrl": "https://www.thehindu.com/news/national/feeder/default.rss",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "NDTV",
         "rssUrl": "https://feeds.feedburner.com/ndtvnews-top-stories",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -102,7 +114,8 @@
       {
         "name": "RTE News",
         "rssUrl": "https://www.rte.ie/feeds/rss/?index=/news/ireland",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -114,22 +127,26 @@
       {
         "name": "Times of Israel",
         "rssUrl": "https://www.timesofisrael.com/feed/",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "Jerusalem Post",
         "rssUrl": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "Ynet",
         "rssUrl": "https://www.ynet.co.il/Integration/StoryRss2.xml",
-        "language": "he"
+        "language": "he",
+        "type": "nationalOutlet"
       },
       {
         "name": "N12",
         "rssUrl": "https://rcs.mako.co.il/rss/news-israel.xml",
-        "language": "he"
+        "language": "he",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -141,12 +158,14 @@
       {
         "name": "Deutsche Welle",
         "rssUrl": "https://rss.dw.com/rdf/rss-en-all",
-        "language": "en"
+        "language": "en",
+        "type": "internationalOutlet"
       },
       {
         "name": "Spiegel International",
         "rssUrl": "https://www.spiegel.de/international/index.rss",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -158,12 +177,14 @@
       {
         "name": "France 24",
         "rssUrl": "https://www.france24.com/en/rss",
-        "language": "en"
+        "language": "en",
+        "type": "internationalOutlet"
       },
       {
         "name": "Le Monde",
         "rssUrl": "https://www.lemonde.fr/en/rss/une.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -175,7 +196,8 @@
       {
         "name": "El País (English)",
         "rssUrl": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -187,7 +209,8 @@
       {
         "name": "ANSA English",
         "rssUrl": "https://www.ansa.it/english/english_rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -199,7 +222,8 @@
       {
         "name": "DutchNews.nl",
         "rssUrl": "https://www.dutchnews.nl/feed/",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -211,7 +235,8 @@
       {
         "name": "The Japan Times",
         "rssUrl": "https://www.japantimes.co.jp/feed/",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -223,12 +248,14 @@
       {
         "name": "The Korea Herald",
         "rssUrl": "https://www.koreaherald.com/rss/020000000000.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "Yonhap News",
         "rssUrl": "https://en.yna.co.kr/RSS/news.xml",
-        "language": "en"
+        "language": "en",
+        "type": "wireService"
       }
     ]
   },
@@ -240,7 +267,8 @@
       {
         "name": "South China Morning Post",
         "rssUrl": "https://www.scmp.com/rss/91/feed",
-        "language": "en"
+        "language": "en",
+        "type": "regionalOutlet"
       }
     ]
   },
@@ -252,7 +280,8 @@
       {
         "name": "The Straits Times",
         "rssUrl": "https://www.straitstimes.com/news/singapore/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -264,7 +293,8 @@
       {
         "name": "Rappler",
         "rssUrl": "https://www.rappler.com/feed/",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -276,7 +306,8 @@
       {
         "name": "Mexico News Daily",
         "rssUrl": "https://mexiconewsdaily.com/feed/",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -288,7 +319,8 @@
       {
         "name": "Premium Times",
         "rssUrl": "https://www.premiumtimesng.com/feed",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -300,7 +332,8 @@
       {
         "name": "Egypt Independent",
         "rssUrl": "https://egyptindependent.com/feed/",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -312,7 +345,8 @@
       {
         "name": "Hurriyet Daily News",
         "rssUrl": "https://www.hurriyetdailynews.com/rss",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -324,7 +358,8 @@
       {
         "name": "The Moscow Times",
         "rssUrl": "https://www.themoscowtimes.com/rss/news",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   }

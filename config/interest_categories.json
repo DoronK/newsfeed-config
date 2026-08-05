@@ -11,37 +11,44 @@
       {
         "name": "BBC Technology",
         "rssUrl": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "TechCrunch",
         "rssUrl": "https://techcrunch.com/feed/",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       },
       {
         "name": "The Verge",
         "rssUrl": "https://www.theverge.com/rss/index.xml",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       },
       {
         "name": "Wired",
         "rssUrl": "https://www.wired.com/feed/rss",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       },
       {
         "name": "Ars Technica",
         "rssUrl": "https://feeds.arstechnica.com/arstechnica/index",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       },
       {
         "name": "Engadget",
         "rssUrl": "https://www.engadget.com/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       },
       {
         "name": "Geektime",
         "rssUrl": "https://www.geektime.co.il/feed/",
-        "language": "he"
+        "language": "he",
+        "type": "specialtyPublication"
       }
     ]
   },
@@ -57,22 +64,26 @@
       {
         "name": "BBC Business",
         "rssUrl": "https://feeds.bbci.co.uk/news/business/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "CNBC",
         "rssUrl": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       },
       {
         "name": "NYT Business",
         "rssUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "Nikkei Asia",
         "rssUrl": "https://asia.nikkei.com/rss/feed/nar",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       }
     ]
   },
@@ -88,22 +99,26 @@
       {
         "name": "BBC Science",
         "rssUrl": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "ScienceDaily",
         "rssUrl": "https://www.sciencedaily.com/rss/all.xml",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       },
       {
         "name": "NASA",
         "rssUrl": "https://www.nasa.gov/news-release/feed/",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       },
       {
         "name": "Guardian Science",
         "rssUrl": "https://www.theguardian.com/science/rss",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -119,7 +134,8 @@
       {
         "name": "BBC Health",
         "rssUrl": "https://feeds.bbci.co.uk/news/health/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -135,12 +151,14 @@
       {
         "name": "BBC Sport",
         "rssUrl": "https://feeds.bbci.co.uk/sport/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "ESPN",
         "rssUrl": "https://www.espn.com/espn/rss/news",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       }
     ]
   },
@@ -156,12 +174,14 @@
       {
         "name": "BBC Entertainment",
         "rssUrl": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "Variety",
         "rssUrl": "https://variety.com/v/film/feed/",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       }
     ]
   },
@@ -177,32 +197,38 @@
       {
         "name": "BBC World",
         "rssUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "internationalOutlet"
       },
       {
         "name": "NYT World",
         "rssUrl": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "language": "en"
+        "language": "en",
+        "type": "internationalOutlet"
       },
       {
         "name": "Al Jazeera",
         "rssUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "language": "en"
+        "language": "en",
+        "type": "internationalOutlet"
       },
       {
         "name": "Guardian World",
         "rssUrl": "https://www.theguardian.com/world/rss",
-        "language": "en"
+        "language": "en",
+        "type": "internationalOutlet"
       },
       {
         "name": "Deutsche Welle",
         "rssUrl": "https://rss.dw.com/rdf/rss-en-world",
-        "language": "en"
+        "language": "en",
+        "type": "internationalOutlet"
       },
       {
         "name": "CBC World",
         "rssUrl": "https://www.cbc.ca/cmlink/rss-world",
-        "language": "en"
+        "language": "en",
+        "type": "internationalOutlet"
       }
     ]
   },
@@ -218,17 +244,20 @@
       {
         "name": "BBC Politics",
         "rssUrl": "https://feeds.bbci.co.uk/news/politics/rss.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "NYT Politics",
         "rssUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "Guardian Politics",
         "rssUrl": "https://www.theguardian.com/politics/rss",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -244,12 +273,14 @@
       {
         "name": "PC Gamer",
         "rssUrl": "https://www.pcgamer.com/rss/",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       },
       {
         "name": "Eurogamer",
         "rssUrl": "https://www.eurogamer.net/feed",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       }
     ]
   },
@@ -265,12 +296,14 @@
       {
         "name": "Bon Appétit",
         "rssUrl": "https://www.bonappetit.com/feed/rss",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       },
       {
         "name": "NYT Food",
         "rssUrl": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       }
     ]
   },
@@ -286,12 +319,14 @@
       {
         "name": "NYT Travel",
         "rssUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-        "language": "en"
+        "language": "en",
+        "type": "nationalOutlet"
       },
       {
         "name": "Lonely Planet",
         "rssUrl": "https://www.lonelyplanet.com/news/feed",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       }
     ]
   },
@@ -307,12 +342,14 @@
       {
         "name": "CoinDesk",
         "rssUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       },
       {
         "name": "WSJ Markets",
         "rssUrl": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
-        "language": "en"
+        "language": "en",
+        "type": "specialtyPublication"
       }
     ]
   }
