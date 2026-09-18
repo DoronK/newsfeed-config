@@ -177,8 +177,9 @@ these blobs itself.
 - **Content**: title = representative headline (the linked article's);
   body = `"<Outlet A>, <Outlet B> +N more reporting"` (two outlet names
   then "+N more"). No category label — a cluster legitimately spans
-  targets (World + Politics covering the same election), and `Article`
-  carries no category, so any label would be a guess. All text
+  targets (World + Politics covering the same election), so even though
+  `Article.categoryId` exists (the cache-key of the target the article was
+  fetched under), a mixed cluster makes any single label a guess. All text
   feed-derived and plain-text — same trust posture as feed-rendered UI.
 - **Tap routing**: payload carries the article link. Warm app →
   `onDidReceiveNotificationResponse`; cold start →
