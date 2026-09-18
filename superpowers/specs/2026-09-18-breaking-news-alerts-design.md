@@ -229,7 +229,14 @@ New Settings section, modeled on the offline-prefetch tile:
   degrades that target only.
 - Total fetch failure (every target failed): `return false` → WorkManager
   backoff retry. Safe: nothing was alerted, nothing recorded; the retry
-  re-detects from scratch.
+  re-detects from scratch. Ruling (2026-09-18, post-implementation):
+  `fetchArticlesForSources` isolates per-source errors into empty lists,
+  so "every target failed" and "every feed legitimately empty" are
+  indistinguishable after the merge — the shipped gate is
+  `articles.isEmpty`, which backsoff-retries both. Cost, accepted: a
+  legitimately-empty fetch never advances `breaking_news_last_check_at`,
+  so the status row freezes while the job retries; with 75+ live sources
+  an all-empty fetch is pathological.
 - `show()` throws: story not recorded, `return false` → retry (see job
   step 6).
 - Detector is total: malformed articles (null timestamps, empty titles,
