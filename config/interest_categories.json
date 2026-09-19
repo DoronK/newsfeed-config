@@ -352,5 +352,52 @@
         "type": "specialtyPublication"
       }
     ]
+  },
+  {
+    "id": "feel_good",
+    "label": "Feel-good",
+    "icon": "emoji_emotions_rounded",
+    "gradient": [
+      "#F7971E",
+      "#FFD200"
+    ],
+    "sources": [
+      {
+        "name": "Good News Network",
+        "rssUrl": "https://www.goodnewsnetwork.org/feed/",
+        "language": "en",
+        "type": "specialtyPublication"
+      },
+      {
+        "name": "Positive.News",
+        "rssUrl": "https://www.positive.news/feed/",
+        "language": "en",
+        "type": "specialtyPublication"
+      },
+      {
+        "name": "Reasons to Be Cheerful",
+        "rssUrl": "https://www.reasonstobecheerful.world/feed/",
+        "language": "en",
+        "type": "specialtyPublication"
+      },
+      {
+        "name": "Upworthy",
+        "rssUrl": "https://www.upworthy.com/rss",
+        "language": "en",
+        "type": "specialtyPublication"
+      },
+      {
+        "name": "Guardian Life & Style",
+        "rssUrl": "https://www.theguardian.com/lifeandstyle/rss",
+        "language": "en",
+        "type": "nationalOutlet"
+      },
+      {
+        "name": "NYT Well",
+        "rssUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Well.xml",
+        "language": "en",
+        "type": "nationalOutlet"
+      }
+    ]
   }
 ]
